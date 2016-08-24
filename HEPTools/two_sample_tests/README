@@ -1,0 +1,17 @@
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+#
+# Name:     two_sample_test 
+#
+# Author:   Constantin Weisser (weisser@mit.edu)
+#
+# Purpose:  This directory contains a self made implementation of the 
+#	    Cramer van Mises 2 sample test. 
+#
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+
+It can be tested by running
+python testing_2sample.py
+
+
+
+

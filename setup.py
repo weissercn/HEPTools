@@ -7,7 +7,7 @@ setup(name='HEPTools',
       author='Constantin Weisser',
       author_email='weissercn@gmail.com',
       license='MIT',
-      packages=['HEPTools', 'HEPTools/matplotlib_stylesheet'],
+      packages=['HEPTools', 'HEPTools.matplotlib_stylesheet','HEPTools.two_sample_tests'],
       install_requires=[
           'numpy',
           'scipy',
